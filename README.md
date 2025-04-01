@@ -6,4 +6,4 @@ Locate the circuit schematic & feel free to design your board layout, but you ca
 If you haven't downloaded the software yet, just click the link below:
 https://fritzing.org/download
 
-https://cdn-images-1.medium.com/max/900/1*ssMh5_xHP82uCyIKuXxTCg.png
+![Screenshot (1280)](https://github.com/user-attachments/assets/35b5e97f-01dc-4709-8bb1-376bfa41dd34)
