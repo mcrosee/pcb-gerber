@@ -1,5 +1,7 @@
 # pcb-gerber
-<b>PCB Gerber file for my hardware project</b>
+<i>PCB Gerber file for my hardware project</i>
+<span>
+
 ![Screenshot (1281)](https://github.com/user-attachments/assets/0112081f-f0ea-4e78-8b5b-2abcbbf385c9)
 
 Locate the circuit schematic & feel free to design your board layout, but you can simply use mine it should work without any issues
